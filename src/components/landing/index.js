@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from "react";
-import SignIn from "./SignIn";
+import SignIn from "./comps/SignIn";
 
 class Landing extends Component {
   render() {
